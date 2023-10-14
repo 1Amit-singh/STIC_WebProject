@@ -10,5 +10,11 @@
         "name":"john Doe",
         "section":"CS Core",
         "coleege":"Havard university"
+    },
+    {
+        "image":"169DGrDqW7F1DGGarL9xns6HZ4esu5_XF",
+        "name":"Amit Singh Thakur",
+        "section":"IT A",
+        "coleege":"Medicaps University"
     }
 ]
